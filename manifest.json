@@ -1,0 +1,21 @@
+[
+    {
+        "guid": "e9ca8b8e-ca6d-40e7-85dc-58e536df8eb3",
+        "name": "Skin Manager",
+        "description": "Install and customise community skins (Ultrachromic, ElegantFin, Zesty, JellyFlix, ...) for the Jellyfin web client without losing your own custom CSS.\n",
+        "overview": "Skins for Jellyfin",
+        "owner": "StylishSeahorse",
+        "imageUrl": "https://raw.githubusercontent.com/StylishSeahorse/jellyfin-plugin-skin-manager/master/src/img/thumb.png",
+        "category": "General",
+        "versions": [
+            {
+                "version": "3.0.0.0",
+                "changelog": "Rebuilt for Jellyfin 12.0 (.NET 10). Your own custom CSS is now kept and backed up, new Remove skin and Show generated CSS buttons, ElegantFin and Zesty skins, and fixes for the empty skin list, sliders, Google Fonts, ignored @imports, Ultrachromic backdrop settings and dead skin links.\n",
+                "targetAbi": "12.0.0.0",
+                "sourceUrl": "https://github.com/StylishSeahorse/jellyfin-plugin-skin-manager/releases/download/v3.0.0.0/skin-manager_3.0.0.0.zip",
+                "checksum": "c33ace1725283e5e2bc7e15f62fbdc51",
+                "timestamp": "2026-10-24T09:34:49Z"
+            }
+        ]
+    }
+]
